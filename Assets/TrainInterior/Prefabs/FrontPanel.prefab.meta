@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ea32574ed487eed4ca71a7ead133ce25
+timeCreated: 1478091868
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75297
+  packageName: Train Interior
+  packageVersion: 1.0
+  assetPath: Assets/TrainInterior/Prefabs/FrontPanel.prefab
+  uploadId: 307291

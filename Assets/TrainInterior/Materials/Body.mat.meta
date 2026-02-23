@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f3d894841b287804a920416c5f0e6e70
+timeCreated: 1477947201
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75297
+  packageName: Train Interior
+  packageVersion: 1.0
+  assetPath: Assets/TrainInterior/Materials/Body.mat
+  uploadId: 307291

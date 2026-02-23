@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a36b56c7c01302d46af6204b7b3adc64
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75297
+  packageName: Train Interior
+  packageVersion: 1.0
+  assetPath: Assets/TrainInterior/Saves/Fly.cs
+  uploadId: 307291

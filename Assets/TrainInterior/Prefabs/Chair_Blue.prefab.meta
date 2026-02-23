@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ef1de2357cfc3f4b93df5f00803fa57
+timeCreated: 1478091900
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75297
+  packageName: Train Interior
+  packageVersion: 1.0
+  assetPath: Assets/TrainInterior/Prefabs/Chair_Blue.prefab
+  uploadId: 307291

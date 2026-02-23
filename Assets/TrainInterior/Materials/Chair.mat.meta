@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dacb0a0187cd75c40af4ab5cf9813afe
+timeCreated: 1477947567
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75297
+  packageName: Train Interior
+  packageVersion: 1.0
+  assetPath: Assets/TrainInterior/Materials/Chair.mat
+  uploadId: 307291

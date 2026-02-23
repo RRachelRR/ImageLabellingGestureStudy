@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c3ff4d1d49abb043a793975964eeae9
+timeCreated: 1477988115
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75297
+  packageName: Train Interior
+  packageVersion: 1.0
+  assetPath: Assets/TrainInterior/Assets/Materials/DefaultMaterial_Base_Color.mat
+  uploadId: 307291

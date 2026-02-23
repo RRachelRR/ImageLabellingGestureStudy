@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6340a624e06f8234a825c55f4f24bc11
+timeCreated: 1478091854
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75297
+  packageName: Train Interior
+  packageVersion: 1.0
+  assetPath: Assets/TrainInterior/Prefabs/SidePanels.prefab
+  uploadId: 307291

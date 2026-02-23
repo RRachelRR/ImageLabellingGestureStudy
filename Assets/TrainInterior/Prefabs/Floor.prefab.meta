@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3cabd7c317498d945b66b676650e0556
+timeCreated: 1478091856
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75297
+  packageName: Train Interior
+  packageVersion: 1.0
+  assetPath: Assets/TrainInterior/Prefabs/Floor.prefab
+  uploadId: 307291

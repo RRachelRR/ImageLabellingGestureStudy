@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4c3ee94694ca4b94a9ba55cf0b901a8f
+timeCreated: 1478091863
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75297
+  packageName: Train Interior
+  packageVersion: 1.0
+  assetPath: Assets/TrainInterior/Prefabs/Door.prefab
+  uploadId: 307291

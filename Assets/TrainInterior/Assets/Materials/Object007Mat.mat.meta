@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d5180b572b961e4383ababae204c41c
+timeCreated: 1478027427
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 75297
+  packageName: Train Interior
+  packageVersion: 1.0
+  assetPath: Assets/TrainInterior/Assets/Materials/Object007Mat.mat
+  uploadId: 307291
